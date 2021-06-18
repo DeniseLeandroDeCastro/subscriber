@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="azul_real">#4169e1</color>
+    <color name="azul25">#4e71ba</color>
+    <color name="azul_saturado">#2f55a4</color>
+    <color name="azul_analogo">#008ad3</color>
+    <color name="azul_esverdeado">#00d3d1</color>
+    <color name="creme">#fffdd0</color>
+    <color name="amarelo_claro">#ffffe0</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
