@@ -9,6 +9,7 @@ import br.com.denise.castro.mysubscribers.data.db.entity.SubscriberEntity
 
 @Dao
 interface SubscriberDAO {
+
     @Insert
     suspend fun insert(subscriber: SubscriberEntity): Long
 
