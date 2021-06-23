@@ -14,6 +14,6 @@ data class SubscriberEntity(
 
 )
 
-)
+
 
 
