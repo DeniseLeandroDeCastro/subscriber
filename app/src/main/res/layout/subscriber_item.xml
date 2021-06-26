@@ -25,12 +25,12 @@
             android:layout_height="wrap_content"
             android:textSize="18sp"
             android:textStyle="bold"
-            android:text="Denise Castro"/>
+            tools:text="Denise Castro"/>
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="8dp"
-            android:text="contato@denisecastro.com.br"/>
+            tools:text="contato@denisecastro.com.br"/>
     </LinearLayout>
 </androidx.cardview.widget.CardView>
